@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="FinancialControl.Api/FinancialControl.Api.csproj" />
+  <Project Path="FinancialControl.Models/FinancialControl.Models.csproj" />
+  <Project Path="FinancialControl.Services/FinancialControl.Services.csproj" />
+</Solution>
